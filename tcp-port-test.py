@@ -1,6 +1,5 @@
 import socket
 from colorama import init, Fore, Back, Style
-import sys
 
 init(autoreset=True)
 
