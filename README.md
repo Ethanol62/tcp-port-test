@@ -1,2 +1,7 @@
 # tcp-port-test
-A Python program to check if a port is used.
+
+Download and open ``tcp-port-test.exe`` to use.
+
+Source code is the ``tcp-port-test.exe.py`` file.
+
+© 2023, tcp-port-test - All rights reserved
