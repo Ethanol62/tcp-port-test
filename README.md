@@ -1,7 +1,11 @@
-# tcp-port-test
+# TCP-PORT-TEST
 
-Download and open ``tcp-port-test.exe`` to use.
+## Introduction
 
-Source code is the ``tcp-port-test.exe.py`` file.
+tcp-port-test has the utility of testing a TCP port to check if it is used or not.
+
+## Use:
+- **Recommended Use:** Download and open ``tcp-port-test.exe``
+- **Orginal Code Use:** Download and open ``tcp-port-test.py`` and install ``colorama`` module.
 
 © 2023, tcp-port-test - All rights reserved
